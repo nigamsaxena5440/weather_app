@@ -3,8 +3,8 @@ class SearchModel {
   String? name;
   String? region;
   String? country;
-  num? lat;
-  num? lon;
+  double? lat;
+  double? lon;
   String? url;
 
   SearchModel(
